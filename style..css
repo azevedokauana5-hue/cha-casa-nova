@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fff8f5;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background: #f8b4c6;
+    color: white;
+    padding: 30px;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+button {
+    background: #f06292;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #ec407a;
+}
+
+#mensagem {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}ody {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fff8f5;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background: #f8b4c6;
+    color: white;
+    padding: 30px;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+button {
+    background: #f06292;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #ec407a;
+}
+
+#mensagem {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
