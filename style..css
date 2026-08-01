@@ -1,34 +1,33 @@
 body{
     margin:0;
     font-family:Arial, Helvetica, sans-serif;
-    background:#fff8f8;
+    background:red;
 }
 
 .topo{
     text-align:center;
-    padding:30px 20px;
-}
-
-.foto-topo{
-    width:150px;
-    max-width:90%;
-    height:auto;
-    border-radius:15px;
-    display:block;
-    margin:0 auto 20px;
+    padding:40px 20px;
 }
 
 .topo h2{
     color:#555;
-    margin:10px 0;
+    margin-bottom:10px;
 }
 
 .topo h1{
     color:#c76b8a;
-    margin:10px 0;
+    margin-bottom:10px;
 }
 
 .frase{
     font-size:22px;
     color:#666;
+    margin-bottom:30px;
+}
+
+.foto-topo{
+    width:300px;
+    max-width:90%;
+    height:auto;
+    border-radius:15px;
 }
