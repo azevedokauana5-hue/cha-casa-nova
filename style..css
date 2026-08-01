@@ -23,12 +23,6 @@ body{
     margin-bottom:30px;
 }
 
-.foto-casal{
-    width:280px;
-    border-radius:20px;
-    box-shadow:0 5px 15px rgba(0,0,0,.2);
-}
-
 .mensagem{
     max-width:900px;
     margin:auto;
@@ -62,11 +56,12 @@ box-shadow: 0 6px 20px rgba(0,0,0,.25);
 }
 
 .foto-topo{
-    width: 300px;
-    height: 300px;
-    display: block;
-    margin: 20px auto;
-    border-radius: 15px;
+    width:300px;
+    height:300px;
+    object-fit:cover;
+    display:block;
+    margin:20px auto;
+    border-radius:15px;
 }
 
 .topo{
@@ -97,15 +92,6 @@ box-shadow: 0 6px 20px rgba(0,0,0,.25);
     50%{
         transform:translateY(10px);
     }
-}
-
-
-.foto-topo{
-    width:100%;
-    max-height:300px;
-    height:auto;
-    object-fit:cover;
-    display:block;
 }
 
 .topo{
