@@ -16,14 +16,16 @@ body{
 }
 .topo h1{
     color:#c76b8a;
-    margin-bottom:10px;
+    font-size:48px;
+    margin-bottom:20px;
 }
 
 .frase{
-    font-size:22px;
+    font-size:28px;
     color:#666;
-    margin-bottom:30px;
+    margin-bottom:40px;
 }
+
 .foto-topo{    
     width:250px;
     height:250px;
