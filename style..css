@@ -25,9 +25,11 @@ body{
     margin-bottom:30px;
 }
 
-.foto-topo{
-    width:300px;
-    max-width:90%;
-    height:auto;
-    border-radius:15px;
+foto-topo{
+    width:250px;
+    height:250px;
+    object-fit:cover;
+    border-radius:20px;
+    display:block;
+    margin:20px auto;
 }
