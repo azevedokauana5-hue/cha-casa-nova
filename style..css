@@ -40,3 +40,26 @@ body{
     margin-bottom:40px;
     line-height:1.6;
 }
+.boas-vindas{
+    max-width:900px;
+    margin:40px auto;
+    padding:40px;
+    background:#fff;
+    border-radius:20px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.08);
+    line-height:1.8;
+}
+
+.boas-vindas h2{
+    text-align:center;
+    color:#c76b8a;
+    margin-bottom:30px;
+    font-size:34px;
+}
+
+.boas-vindas p{
+    font-size:20px;
+    color:#555;
+    margin-bottom:20px;
+    text-align:justify;
+}
