@@ -34,3 +34,9 @@ body{
     display:block;
     margin:20px auto;
 }
+.local{
+    font-size:22px;
+    color:#777;
+    margin-bottom:40px;
+    line-height:1.6;
+}
