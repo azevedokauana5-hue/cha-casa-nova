@@ -1,64 +1,8 @@
 body{
- background:black;
-    color:white;
+    background:black;
 }
 
-.topo{
-    text-align:center;
-    padding:40px 20px;
-}
-
-.topo h2{
-    color:#555;
-    font-size:36px;
-    margin-bottom:20px;
-}
-.topo h1{
-    color:#c76b8a;
-    font-size:48px;
-    margin-bottom:20px;
-}
-
-.frase{
-    font-size:28px;
-    color:#666;
-    margin-bottom:40px;
-}
-
-.foto-topo{    
-    width:250px;
-    height:250px;
-    object-fit:cover;
-    border-radius:20px;
-    display:block;
-    margin:20px auto;
-}
-.local{
-    font-size:22px;
-    color:#777;
-    margin-bottom:40px;
-    line-height:1.6;
-}
-.boas-vindas{
-    max-width:900px;
-    margin:40px auto;
-    padding:40px;
-    background:#fff;
-    border-radius:20px;
-    box-shadow:0 4px 12px rgba(0,0,0,0.08);
-    line-height:1.8;
-}
-
-.boas-vindas h2{
-    text-align:center;
-    color:#c76b8a;
-    margin-bottom:30px;
-    font-size:34px;
-}
-
-.boas-vindas p{
-    font-size:20px;
-    color:#555;
-    margin-bottom:20px;
-    text-align:justify;
+h1{
+    color:red;
+    font-size:60px;
 }
